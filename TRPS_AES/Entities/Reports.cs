@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace TRPS_AES.Entities
 {
-    internal class Reports
+     class Reports
     {
+        public int IdReport { get; set; }
+        public int UserId { get; set; }
+        public DateTime Date { get; set; }
+        public TimeSpan ArriveTime { get; set; }
+        public TimeSpan DepartureTime { get; set; }
+
     }
 }

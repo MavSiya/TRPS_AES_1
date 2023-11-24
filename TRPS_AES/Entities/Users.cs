@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace TRPS_AES.Entities
 {
-    internal class Users
+     class Users
     {
+        public int IdUser { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Director { get; set; }
+        public string Position { get; set; }
+        public string Password { get; set; }
+        public string CardId { get; set; }
     }
 }
