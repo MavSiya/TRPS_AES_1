@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TRPS_AES.Entities
 {
-     class Cards
+   public  class Cards 
     {
         public int IdCard { get; set; }
         public int Number { get; set; }
