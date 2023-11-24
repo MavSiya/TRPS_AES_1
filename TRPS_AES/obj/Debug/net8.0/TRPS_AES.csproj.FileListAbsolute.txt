@@ -1,0 +1,12 @@
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\bin\Debug\net8.0\TRPS_AES.deps.json
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\bin\Debug\net8.0\TRPS_AES.dll
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\bin\Debug\net8.0\TRPS_AES.pdb
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\TRPS_AES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\TRPS_AES.AssemblyInfoInputs.cache
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\TRPS_AES.AssemblyInfo.cs
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\TRPS_AES.csproj.CoreCompileInputs.cache
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\TRPS_AES.sourcelink.json
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\TRPS_AES.dll
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\refint\TRPS_AES.dll
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\TRPS_AES.pdb
+C:\Users\Tehno\source\repos\TRPS_AES\TRPS_AES\obj\Debug\net8.0\ref\TRPS_AES.dll

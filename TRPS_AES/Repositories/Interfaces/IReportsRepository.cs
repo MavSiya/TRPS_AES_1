@@ -7,8 +7,8 @@ using TRPS_AES.Entities;
 
 namespace TRPS_AES.Repositories.Interfaces
 {
-    interface IReportsRepository : IRepository<Reports>
-
+    interface IReportsRepository 
+        : IRepository<Reports>
     {
     }
 }

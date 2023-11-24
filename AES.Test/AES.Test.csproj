@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TRPS_AES\TRPS_AES.csproj" />
+  </ItemGroup>
+
 </Project>
