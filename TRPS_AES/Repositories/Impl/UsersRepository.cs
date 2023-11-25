@@ -9,7 +9,7 @@ using TRPS_AES.Repositories.Interfaces;
 
 namespace TRPS_AES.Repositories.Impl
 {
-   public class UsersRepository : BaseRepository<Users>, IUsersRepository //not public
+   public class UsersRepository : BaseRepository<Users>, IUsersRepository 
     {
         internal UsersRepository(AESContext context)
         : base(context)

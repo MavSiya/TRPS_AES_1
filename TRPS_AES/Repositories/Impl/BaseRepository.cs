@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TRPS_AES.Repositories.Interfaces;
 
+
 namespace TRPS_AES.Repositories.Impl
 {
     public abstract class BaseRepository<T> : IRepository<T>

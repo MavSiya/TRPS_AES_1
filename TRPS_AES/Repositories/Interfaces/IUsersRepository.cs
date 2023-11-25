@@ -7,7 +7,7 @@ using TRPS_AES.Entities;
 
 namespace TRPS_AES.Repositories.Interfaces
 {
-     public interface IUsersRepository //not public
+     public interface IUsersRepository 
         : IRepository<Users>
     {
     }

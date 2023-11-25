@@ -9,7 +9,7 @@ using TRPS_AES.Repositories.Interfaces;
 
 namespace TRPS_AES.Repositories.Impl
 {
-    public class CardsRepository : BaseRepository<Cards>, ICardsRepository //internal
+    public class CardsRepository : BaseRepository<Cards>, ICardsRepository 
  {
         internal CardsRepository(AESContext context)
         : base(context)
