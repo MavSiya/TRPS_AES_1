@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace BLL.DTO
 {
-    internal class ReportsDTO
+    public class ReportsDTO
     {
+        public int IdReport { get; set; }
+        public int UserId { get; set; }
+        public DateTime Date { get; set; }
+        public TimeSpan ArriveTime { get; set; }
+        public TimeSpan DepartureTime { get; set; }
     }
 }
