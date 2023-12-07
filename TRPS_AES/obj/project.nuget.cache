@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "N0/riQXQtYLcMLNcKk18PVVAuSHdskK0R7gkbJDO/bxpM3GEZSPpKzT23UwwedmqoZOP43NPS+oZ9h4BT06TGQ==",
+  "dgSpecHash": "29nGZKXBOxfsV5GJtPd2r/56ufosmqw7XmNpfuqOfpJtG6co5iCiVVem4hg9QS3nwROzKRt6/cKagzZ5eFmR2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Tehno\\source\\repos\\TRPS_AES\\TRPS_AES\\TRPS_AES.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Tehno\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
@@ -14,7 +15,9 @@
     "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\Tehno\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tehno\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\Tehno\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

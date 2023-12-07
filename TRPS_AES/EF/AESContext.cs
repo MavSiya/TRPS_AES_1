@@ -8,7 +8,7 @@ using TRPS_AES.Entities;
 
 namespace TRPS_AES.EF
 {
-     class AESContext : DbContext
+    public class AESContext : DbContext
     {
         public DbSet<Users> Users { get; set; }
         public DbSet<Cards> Cards { get; set; }
