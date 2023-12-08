@@ -10,5 +10,6 @@ namespace BLL.Services.Interfaces
     public interface IReportService
     {
         IEnumerable<ReportsDTO> GetReportDTO(int page);
+        void AddReport(ReportsDTO reportDto);
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\bin\Debug\net8.0\CLL.deps.json
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\bin\Debug\net8.0\CLL.dll
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\bin\Debug\net8.0\CLL.pdb
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\CLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\CLL.AssemblyInfoInputs.cache
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\CLL.AssemblyInfo.cs
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\CLL.csproj.CoreCompileInputs.cache
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\CLL.sourcelink.json
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\CLL.dll
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\refint\CLL.dll
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\CLL.pdb
+C:\Users\Tehno\source\repos\TRPS_AES\CLL\obj\Debug\net8.0\ref\CLL.dll

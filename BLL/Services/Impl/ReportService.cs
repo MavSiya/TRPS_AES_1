@@ -46,6 +46,28 @@ namespace BLL.Services.Impl
             var reportsDto = mapper.Map<IEnumerable<Reports>, List<ReportsDTO>>(reportsEntities);
             return reportsDto;
         }
+
+        public void AddReport(ReportsDTO reportDto)
+        {
+            var user = SecurityContext.GetUser();
+            var userType = user.GetType();
+
+            if (userType != typeof(Director) && userType != typeof(Administrator))
+            {
+                throw new MethodAccessException();
+            }
+
+            var mapperConfig = new MapperConfiguration(cfg => cfg.CreateMap<ReportsDTO, Reports>());
+            var mapper = new Mapper(mapperConfig);
+            var reportEntity = mapper.Map<ReportsDTO, Reports>(reportDto);
+
+            
+            reportEntity.UserId = user.UserId;
+
+            
+            _database.Reports.Create(reportEntity);
+            _database.Save();
+        }
     }
 }
 

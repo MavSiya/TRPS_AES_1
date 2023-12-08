@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRPS_AES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+669cc3c0b3d7ad8103985c6b85e8509051eb915c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRPS_AES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRPS_AES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

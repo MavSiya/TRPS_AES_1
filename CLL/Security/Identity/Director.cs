@@ -8,8 +8,8 @@ namespace CLL.Security.Identity
 {
     public class Director : User
     {
-        public Director(int userId, string name, string surname, string position, string password)
-            : base(userId, name, surname, position, password, nameof(Director))
+        public Director(int userId, string name, string surname, string position, string password, int cardId)
+            : base(userId, name, surname, position, password, cardId, nameof(Director))
         {
         }
     }

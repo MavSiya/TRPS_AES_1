@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+669cc3c0b3d7ad8103985c6b85e8509051eb915c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
